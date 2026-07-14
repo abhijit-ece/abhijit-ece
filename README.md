@@ -96,16 +96,4 @@ Strengthened programming, problem-solving, and technical skills through structur
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center"><i>Thanks for visiting my profile! Feel free to reach out or check out my repositories 🚀</i></p>
