@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhijit-ece/abhijit-ece/main/Welcome.gif" width="65%" alt="Welcome Animation">
+</p>
 
 <h1 align="center">Hi there, I'm Abhijit K 👋</h1>
 <h3 align="center">Aspiring Software Developer | Java Backend Enthusiast | Final-Year ECE Student</h3>
