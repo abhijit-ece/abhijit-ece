@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEikPuXsSDZ2Q/profile-displaybackgroundimage-shrink_200_800/B56Z3uyrPqKYAY-/0/1777827757196?e=1785369600&v=beta&t=YVYfMOoIVp3Ziz2OMNS_AQhiMV3mhizPn60IqzADWLE" alt="MrAbhijit LinkedIn Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/abhijit-ece/abhijit-ece/main/GITHUB%20BANNER.png" alt="MrAbhijit GitHub Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/abhijit-ece">
+    <img src="https://raw.githubusercontent.com/abhijit-ece/abhijit-ece/main/Welcome.gif" alt="Welcome to MrAbhijit's GitHub" width="50%" />
+  </a>
+
+  <a href="https://github.com/abhijit-ece">
+    <img src="https://raw.githubusercontent.com/abhijit-ece/abhijit-ece/main/Welcome.gif" alt="MrAbhijit Welcome Animation" width="50%" />
+  </a>
+</p>
 <h1 align="center">Hi there, I'm Abhijit K 👋</h1>
 <h3 align="center">Aspiring Software Developer | Java Backend Enthusiast | Final-Year ECE Student</h3>
 
