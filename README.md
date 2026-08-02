@@ -99,6 +99,9 @@ Strengthened programming, problem-solving, and technical skills through structur
 
 ---
 
-<p align="center"><i>Thanks for visiting my profile! Feel free to reach out or check out my repositories 🚀</i></p>
+
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+
+<p align="center"><i>Thanks for visiting my profile! Feel free to reach out or check out my repositories 🚀</i></p>
