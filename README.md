@@ -26,7 +26,7 @@
 - ☁️ AWS Cloud Learner
 - 📚 Passionate about Data Structures & Algorithms
 - 🎯 Aspiring Software Development Engineer
-- 
+  
 
 
 
