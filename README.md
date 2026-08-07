@@ -16,7 +16,17 @@
 
 
 
-### 🎯 About Me
+# 👨‍💻 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 💻 Java Full Stack Developer
+- 🌱 Currently learning **Spring Boot, React & Microservices**
+- 🤖 Creator of **SpringGen AI**
+- ☁️ AWS Cloud Learner
+- 📚 Passionate about Data Structures & Algorithms
+- 🎯 Aspiring Software Development Engineer
+
 
 I'm a final-year **Electronics and Communication Engineering** student passionate about **Java-based backend development**, gained through internships, hackathons, and self-driven projects. I enjoy building real-world applications that solve practical problems, and I'm constantly learning new technologies to grow as a software developer.
 
