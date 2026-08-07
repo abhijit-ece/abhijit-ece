@@ -26,6 +26,8 @@
 - ☁️ AWS Cloud Learner
 - 📚 Passionate about Data Structures & Algorithms
 - 🎯 Aspiring Software Development Engineer
+- 
+
 
 
 I'm a final-year **Electronics and Communication Engineering** student passionate about **Java-based backend development**, gained through internships, hackathons, and self-driven projects. I enjoy building real-world applications that solve practical problems, and I'm constantly learning new technologies to grow as a software developer.
